@@ -51,26 +51,6 @@ An intelligent AI-powered helpdesk assistant that helps users resolve issues in 
 
 ---
 
-## 📂 Project Structure
-ai-helpdesk-chat/
-│
-├── backend/ # Spring Boot + Spring AI backend
-│ ├── controllers/
-│ ├── services/
-│ ├── rag/
-│ ├── chatmemory/
-│ └── ticketing/
-│
-├── frontend/ # React frontend
-│ ├── components/
-│ ├── pages/
-│ ├── routes/
-│ └── ui/
-│
-└── README.md
-
----
-
 ## ⚙️ How It Works
 
 1. User starts a chat with the AI assistant  
